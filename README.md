@@ -1,16 +1,6 @@
-# 👋🏽 Hi, I'm Odvin Rivera 💻 <img src="https://i.ibb.co/L512d7g/coldplay-head-full-of-dreams-logo.jpg" alt="Coldplay A Head Full of Dreams Logo" width="100" align="right">
+# 👋 Hi, I'm Odvin Rivera 💻
 
-Soy un **desarrollador de software** con pasión por crear soluciones **innovadoras y funcionales**, especializado en el **desarrollo backend** y la creación de **páginas web**. Estoy comprometido con el aprendizaje continuo y la entrega de software de alta calidad. 🚀
-
----
-
-<div align="center">
-    <a href="https://open.spotify.com/playlist/0R4Z2Q6b496QOgcTdRfEy4?si=rK4ZLAf-Q0WiyyATEGByCQ" target="_blank" rel="noopener noreferrer">
-        <img src="https://i.ibb.co/6P2hHqT/Junior-H-Las-Noches.png" alt="Carátula de LAS NOCHES - Junior H" width="150" style="border-radius: 8px;"/>
-        <p style="font-weight: bold; margin-top: 5px;">🎵 LAS NOCHES - Junior H</p>
-        <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Play on Spotify"/>
-    </a>
-</div>
+Soy un desarrollador de software con pasión por crear soluciones innovadoras y funcionales, especializado en el **desarrollo backend** y la creación de **páginas web**. Estoy comprometido con el aprendizaje continuo y la entrega de software de alta calidad. 🚀
 
 ---
 
@@ -21,7 +11,7 @@ Soy un **desarrollador de software** con pasión por crear soluciones **innovado
 | Lenguajes de Programación | Web y Frontend | Backend y Runtimes |
 | :---: | :---: | :---: |
 | [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/) | [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) |
-| [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) | [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) | [![C# .NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+| [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) | [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) | [![C# .NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/) 
 
 ### Bases de Datos y Herramientas de Desarrollo
 
@@ -29,3 +19,4 @@ Soy un **desarrollador de software** con pasión por crear soluciones **innovado
 | :---: | :---: |
 | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) | [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) |
 | [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server) | [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) |
+
