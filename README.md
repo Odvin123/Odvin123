@@ -6,7 +6,7 @@ Soy un desarrollador de software con pasión por crear soluciones innovadoras y 
 ## ⚙️ Mi Pila de Tecnologías
 ---
 
-### Lenguajes de Programación
+## Lenguajes de Programación
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
