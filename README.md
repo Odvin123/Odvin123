@@ -22,7 +22,7 @@ Soy un desarrollador de software con pasión por crear soluciones innovadoras y 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![C# .NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 
-###  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnMzNXF2ZWhmcHg1eGVjdmk3dG9sYzJ5dWlidXJpc28xdTI3aWU2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" width="40px">  Bases de Datos
+###  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnMzNXF2ZWhmcHg1eGVjdmk3dG9sYzJ5dWlidXJpc28xdTI3aWU2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" width="30px">  Bases de Datos
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
