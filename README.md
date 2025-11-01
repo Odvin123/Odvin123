@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Hi, I'm Odvin Rivera
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> **Hi, I'm Odvin Rivera**
 
-Soy un desarrollador de software con pasión por crear soluciones innovadoras y funcionales, especializado en el **desarrollo backend** y la creación de **páginas web**. Estoy comprometido con el aprendizaje continuo y la entrega de software de alta calidad. 🚀
+Soy un desarrollador de software con pasión por crear soluciones innovadoras y funcionales, especializado en el **desarrollo Backend** y la creación de **páginas Web**. Estoy comprometido con el aprendizaje continuo y la entrega de software de alta calidad. 🚀
 </div>
 
 ---
