@@ -40,6 +40,5 @@ Soy un desarrollador de software con pasión por crear soluciones innovadoras y 
 | :---: | :---: |
 | **Correo Electrónico** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:odvinenriquerivera12345@gmail.com) |
 | **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/odvin-enrique-condega-rivera-08771a34b) |
-| **GitHub** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Odvin123) |
 
-me gustaria un diseño mas bonito en la forma de que no sea cuadrado que lleve un orden bonito.. en lo que son mis ⚙️ Mi Pila de Tecnologías
+
