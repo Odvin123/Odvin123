@@ -1,4 +1,4 @@
-   # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Hi, I'm Odvin Rivera 
+   # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> *Hi, I'm Odvin Rivera*
 
 Soy un desarrollador de software con pasión por crear soluciones innovadoras y funcionales, especializado en el **desarrollo backend** y la creación de **páginas web**. Estoy comprometido con el aprendizaje continuo y la entrega de software de alta calidad. 🚀
 
@@ -7,7 +7,7 @@ Soy un desarrollador de software con pasión por crear soluciones innovadoras y 
 
 ---
 
-###  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQzemhrdmEzdDNpMG5yZWF2MHlqb2c5NnN5amlvMXBobTdiZHI2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="60px"> Lenguajes de Programación
+###  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQzemhrdmEzdDNpMG5yZWF2MHlqb2c5NnN5amlvMXBobTdiZHI2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="40px"> Lenguajes de Programación
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
