@@ -21,11 +21,4 @@ Soy un desarrollador de software con pasión por crear soluciones innovadoras y 
 | [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server) | [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) |
 |
 
----
 
-## 📈 Mis Estadísticas
-
-## 🤝 Contáctame
-
-* **LinkedIn:** [Odvin Enrique Condeda Rivera](http://www.linkedin.com/in/odvin-enrique-condega-rivera-08771a34b)
-* **Correo:** odvinenriquerivera12345@gmail.com
