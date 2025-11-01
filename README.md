@@ -1,27 +1,31 @@
-# 👋 Hola, soy Odvin Rivera
+# 👋 Hola, Soy Odvin Rivera (Odvin123)
 
 Soy un desarrollador de software con pasión por crear soluciones innovadoras y funcionales, especializado en el **desarrollo backend** y la creación de **páginas web**. Estoy comprometido con el aprendizaje continuo y la entrega de software de alta calidad. 🚀
 
-## ⚙️ Mi Pila de Tecnologías (My Stack)
+---
 
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Lenguajes de Programación** | C#, Node.js, Python, JavaScript |
-| **Bases de Datos** | PostgreSQL, SQL Server |
-| **Frontend Básico** | HTML, CSS |
+## ⚙️ Mi Pila de Tecnologías
 
+### Lenguajes de Programación y Runtimes
 
-<!--
-**Odvin123/Odvin123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Lenguajes de Programación | Web y Frontend | Backend y Runtimes |
+| :---: | :---: | :---: |
+| [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/) | [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) |
+| [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) | [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) | [![C# .NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/) |
 
-Here are some ideas to get you started:
+### Bases de Datos y Herramientas de Desarrollo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Bases de Datos | Herramientas de Desarrollo y SO |
+| :---: | :---: |
+| [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) | [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) |
+| [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server) | [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) |
+| | [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) |
+
+---
+
+## 📈 Mis Estadísticas
+
+## 🤝 Contáctame
+
+* **LinkedIn:** [Odvin Enrique Condeda Rivera](http://www.linkedin.com/in/odvin-enrique-condega-rivera-08771a34b)
+* **Correo:** odvinenriquerivera12345@gmail.com
