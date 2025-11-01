@@ -23,7 +23,7 @@ Soy un desarrollador de software con pasión por crear soluciones innovadoras y 
 
 ---
 
-### 🚀 Backend y Runtimes <img src="https://media.giphy.com/media/j1sGG7gbUE3cE/giphy.gif" width="40px" align="center">
+### 🚀 Backend y Runtimes <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Y1Y3M3aGhkanF6cnQ2Y3FxbmJuOGF4Y3g2Ymxyd2ZqbHZraHg5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="40px" align="center">
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![C# .NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
