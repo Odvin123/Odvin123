@@ -8,7 +8,7 @@ Soy un desarrollador de software con pasión por crear soluciones innovadoras y 
 
 ---
 
-### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODI1ZDg5Zm5md3N2NTh1MWwybXJ5OGZ0a3AxM2VoZ2V1NGlmZGFrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KB1DVMFFhKZEJG6gmv/giphy.gif" width="40px" align="center"> Lenguajes de Programación 
+### <img src="" width="40px" align="center"> Lenguajes de Programación 
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -38,8 +38,8 @@ Soy un desarrollador de software con pasión por crear soluciones innovadoras y 
 
 ---
 
-### 🛠️ Herramientas de Desarrollo <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="40px" align="center">
-
+###  <img src="[https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXF2Nmx6bnJ1eGN3aXVkOGNzbnpwaWgwZ25id2xnc3VzMDh2emY3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif)" width="40px" align="center">
+ Herramientas de Desarrollo
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
