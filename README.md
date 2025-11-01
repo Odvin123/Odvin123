@@ -2,12 +2,14 @@
 
 Soy un **desarrollador de software** con pasión por crear soluciones **innovadoras y funcionales**, especializado en el **desarrollo backend** y la creación de **páginas web**. Estoy comprometido con el aprendizaje continuo y la entrega de software de alta calidad. 🚀
 
+---
+
 <div align="center">
-    <a href="https://open.spotify.com/track/2tH3P67c8R2cQv9M4i74bS?si=a7d25244b4194c59" target="_blank" rel="noopener noreferrer">
-        <img src="https://i.ibb.co/6P2hHqT/Junior-H-Las-Noches.png" alt="Carátula de LAS NOCHES - Junior H" width="250"/>
+    <a href="https://open.spotify.com/track/2yN5IeK4t06h9m23f4R1c4" target="_blank" rel="noopener noreferrer">
+        <img src="https://i.ibb.co/6P2hHqT/Junior-H-Las-Noches.png" alt="Carátula de LAS NOCHES - Junior H" width="150" style="border-radius: 8px;"/>
+        <p style="font-weight: bold; margin-top: 5px;">🎵 LAS NOCHES - Junior H</p>
+        <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Play on Spotify"/>
     </a>
-    <br/>
-    🎶 **Escucha: LAS NOCHES - Junior H** 🎶
 </div>
 
 ---
