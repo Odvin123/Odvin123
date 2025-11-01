@@ -1,11 +1,11 @@
-# 👋🏽 Hi, I'm Odvin Rivera 💻 <img src="https://logodownload.org/wp-content/uploads/2019/11/coldplay-logo.png" alt="Coldplay Logo" width="100" align="right">
+# 👋🏽 Hi, I'm Odvin Rivera 💻 <img src="https://i.ibb.co/L512d7g/coldplay-head-full-of-dreams-logo.jpg" alt="Coldplay A Head Full of Dreams Logo" width="100" align="right">
 
 Soy un **desarrollador de software** con pasión por crear soluciones **innovadoras y funcionales**, especializado en el **desarrollo backend** y la creación de **páginas web**. Estoy comprometido con el aprendizaje continuo y la entrega de software de alta calidad. 🚀
 
 ---
 
 <div align="center">
-    <a href="https://open.spotify.com/track/2yN5IeK4t06h9m23f4R1c4" target="_blank" rel="noopener noreferrer">
+    <a href="https://open.spotify.com/playlist/0R4Z2Q6b496QOgcTdRfEy4?si=rK4ZLAf-Q0WiyyATEGByCQ" target="_blank" rel="noopener noreferrer">
         <img src="https://i.ibb.co/6P2hHqT/Junior-H-Las-Noches.png" alt="Carátula de LAS NOCHES - Junior H" width="150" style="border-radius: 8px;"/>
         <p style="font-weight: bold; margin-top: 5px;">🎵 LAS NOCHES - Junior H</p>
         <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Play on Spotify"/>
@@ -29,4 +29,3 @@ Soy un **desarrollador de software** con pasión por crear soluciones **innovado
 | :---: | :---: |
 | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) | [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) |
 | [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server) | [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) |
-
