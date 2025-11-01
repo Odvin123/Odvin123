@@ -35,7 +35,7 @@ Soy un desarrollador de software con pasión por crear soluciones innovadoras y 
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-## 📞 Contáctame
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2J6cm9tdjR3b3NzNWVvZzRicWJrYWVnajJ0ZTFsajJtN2lsZTBuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lVsYDBC0UVQJCE/giphy.gif" width="30px"> Contáctame
 
 | Red Social | Enlace Directo |
 | :---: | :---: |
