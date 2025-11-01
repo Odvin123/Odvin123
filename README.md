@@ -12,7 +12,7 @@ Soy un desarrollador de software con pasión por crear soluciones innovadoras y 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdxMTR6OGxmZzUxejQ5NTdwanluY3hxcGxlcHZiZzFjeDdvbWx3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy.gif" width="40px">  Web y Frontend
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVrbzA4ajJxN2twZjEybDhsYzR3Z3F4dTFhOGZmNXUwNXJzbzdqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="40px">  Web y Frontend
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
