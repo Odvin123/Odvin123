@@ -8,7 +8,7 @@ Soy un desarrollador de software con pasión por crear soluciones innovadoras y 
 
 ---
 
-### <img src="" width="40px" align="center"> Lenguajes de Programación 
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWE4bDJnMm01eGp1cWY5YWowZjFzNW12enJ5aWp6c3RoczloYjRhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GwtfUx2P2HnvByDZdg/giphy.gif" width="40px" align="center"> Lenguajes de Programación 
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
