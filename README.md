@@ -17,7 +17,7 @@ Soy un desarrollador de software con pasión por crear soluciones innovadoras y 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-###  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhpeTFkYTZhZTBiMTNmOGczeHg0aDc5aWE5c201b2lydDlsM3BnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GwtfUx2P2HnvByDZdg/giphy.gif" width="40px">  Backend y Runtimes
+###  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhpeTFkYTZhZTBiMTNmOGczeHg0aDc5aWE5c201b2lydDlsM3BnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GwtfUx2P2HnvByDZdg/giphy.gif" width="30px">  Backend y Runtimes
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![C# .NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
