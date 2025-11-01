@@ -6,7 +6,7 @@ Soy un desarrollador de software con pasión por crear soluciones innovadoras y 
 ## ⚙️ Mi Pila de Tecnologías
 ---
 
-##   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQzemhrdmEzdDNpMG5yZWF2MHlqb2c5NnN5amlvMXBobTdiZHI2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="40px">Lenguajes de Programación
+##   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQzemhrdmEzdDNpMG5yZWF2MHlqb2c5NnN5amlvMXBobTdiZHI2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="30px">Lenguajes de Programación
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
