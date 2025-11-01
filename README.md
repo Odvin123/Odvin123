@@ -28,7 +28,7 @@ Soy un desarrollador de software con pasión por crear soluciones innovadoras y 
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-###  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmpnYWtkbGk5aWhyOWsybTUxdmczcDU2bjA1dXNiazR5dWZreHFqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif" width="40px">  Herramientas de Desarrollo
+###  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmpnYWtkbGk5aWhyOWsybTUxdmczcDU2bjA1dXNiazR5dWZreHFqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif" width="30px">  Herramientas de Desarrollo
 
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
