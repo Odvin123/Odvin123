@@ -8,13 +8,13 @@ Soy un desarrollador de software con pasión por crear soluciones innovadoras y 
 ## ⚙️ Mi Pila de Tecnologías
 ---
 
-##   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQzemhrdmEzdDNpMG5yZWF2MHlqb2c5NnN5amlvMXBobTdiZHI2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="30px">Lenguajes de Programación
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQzemhrdmEzdDNpMG5yZWF2MHlqb2c5NnN5amlvMXBobTdiZHI2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="30px">Lenguajes de Programación
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVrbzA4ajJxN2twZjEybDhsYzR3Z3F4dTFhOGZmNXUwNXJzbzdqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="30px">  Web y Frontend
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVrbzA4ajJxN2twZjEybDhsYzR3Z3F4dTFhOGZmNXUwNXJzbzdqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="30px">  Web y Frontend
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
