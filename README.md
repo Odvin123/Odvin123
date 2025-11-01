@@ -34,4 +34,3 @@ Soy un desarrollador de software con pasión por crear soluciones innovadoras y 
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-me gustaria que los emojis tenga movimiento eso de la computadora,internet, el cohete, lo de la base de datos y lo de la herramienta que sea animada mi presentacion
