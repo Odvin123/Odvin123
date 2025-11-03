@@ -39,6 +39,6 @@ Soy un desarrollador de software con pasión por crear soluciones innovadoras y 
 
 | Red Social | Enlace Directo |
 | :---: | :---: |
-| **Correo Electrónico** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:odvinenriquerivera12345@gmail.com) |
+| **Correo Electrónico** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](modvinenriquerivera12345@gmail.com) |
 | **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/odvin-enrique-condega-rivera-08771a34b) |
 
